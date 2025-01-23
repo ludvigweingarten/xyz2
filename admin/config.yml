@@ -1,7 +1,7 @@
 backend:
   name: github
-  repo: ludvigweingarten/xyz2
-  branch: main
+  repo: ludvigweingarten/xyz2  # Replace with your GitHub username and repository name
+  branch: main  # Replace with the branch you're using (e.g., 'main', 'master')
 
 media_folder: "static/uploads"
 public_folder: "/uploads"
